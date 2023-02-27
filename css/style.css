@@ -1,4 +1,13 @@
 body {
-    background-color: #E266F2;
-
+    font-family:Roboto;
+    background-color: #FA76DA;
+    color: #C16AFD;
 }
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Grenze Gotisch";
+    font-size:50pt;
+}
+
+
