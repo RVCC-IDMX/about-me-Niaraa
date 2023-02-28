@@ -1,7 +1,8 @@
 body {
     font-family:Roboto;
-    background-color: #FA76DA;
-    color: #C16AFD;
+    text-align: center;
+    background-color: #cca7c3;
+    color: #E35F80;
 }
 
 
@@ -12,5 +13,21 @@ h1, h2, h3, h4, h5, h6 {
 
 
 header {
+    text-align:center;
+}  
+
+#hero, footer {
+   color: #E35F80;
+   border: 2px solid #D15FE3;
+   background-color: #e48882;
+   text-align:center;
+   padding:10px;
+}
+
+#hero img {
+    width:400px;
+}
+
+#bio {
     text-align:center;
 }
