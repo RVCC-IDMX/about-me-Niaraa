@@ -54,3 +54,30 @@ max-width:100%;
 #gallery figure{
     text-align:center;
 }
+
+/* Literature */
+#lit {
+    border: 2px solid #cca7c3;
+    margin-bottom:2rem;
+}
+#lit div{
+    padding: 2rem;
+    max-width: 40rem;
+    margin: 0 auto; 
+}
+
+lit div p {
+    padding: 0.3rem 0;
+    clear:both;
+}
+
+/* Dropcaps */
+#lit div p:first-letter {
+
+    color:#D15FE3
+    float:left;
+    font: size 1px;
+    padding: 1px;
+    margin: right 1px;0px;
+    line: height 1px;5;
+}
