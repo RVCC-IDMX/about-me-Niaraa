@@ -8,6 +8,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Grenze Gotisch";
+    text-align: center;
+}
+h1 {
     font-size:50pt;
 }
 
@@ -28,6 +31,11 @@ header {
     width:400px;
 }
 
-#bio {
-    text-align:center;
-}
+ #bio {
+   text-align: center;
+ }
+
+ #hobbies ul li:nth-child(even){
+color: #e05194;
+ }
+
