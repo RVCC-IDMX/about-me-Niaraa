@@ -1,8 +1,8 @@
 body {
     font-family:Roboto;
     text-align: center;
-    background-color: #cca7c3;
-    color: #E35F80;
+    background-color: #661c53;
+    color: #cb5371;
 }
 
 
@@ -20,7 +20,7 @@ header {
 }  
 
 #hero, footer {
-   color: #E35F80;
+   color: #98213f;
    border: 2px solid #D15FE3;
    background-color: #e48882;
    text-align:center;
@@ -74,10 +74,11 @@ lit div p {
 /* Dropcaps */
 #lit div p:first-letter {
 
-    color:#D15FE3
+    color:rgb(131, 33, 222);
     float:left;
-    font: size 1px;
-    padding: 1px;
-    margin: right 1px;0px;
-    line: height 1px;5;
+    font: size 1em;
+    padding: 2em;
+    margin: .25em;
+    line-height: .25;
+    border:1px solid rgb(131, 112, 216);
 }
