@@ -71,7 +71,7 @@ font-size: 1.2em;
 
 .navbar-links a {
     color:whitesmoke;
-    background-color: #333;
+    background-color: #e48882;
     font-size: 2rem;
     padding: 1rem 1.25rem;
     letter-spacing: 2px;
@@ -86,7 +86,6 @@ font-size: 1.2em;
     border-radius:10px;
     outline: none;
 }
-
 
 
 
